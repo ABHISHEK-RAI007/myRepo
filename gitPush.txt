@@ -8,9 +8,6 @@ local system
  
  
  dummy changes
-<<<<<<< Updated upstream
  new change
 
  added new change 2
-=======
->>>>>>> Stashed changes
